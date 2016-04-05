@@ -1,0 +1,65 @@
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:layout_gravity="center"
+    android:background="#fff" 
+    android:stretchColumns="*" >
+
+    <TableRow
+        android:id="@+id/drama"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" 
+        android:background="@drawable/cell_shape" >
+
+        <TextView
+            android:id="@+id/DramaButton"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="10dp"
+            android:gravity="center"
+            android:text="DramaButton"
+            android:textColor="#000" />
+        
+    </TableRow>
+    
+    <TableRow
+        android:id="@+id/quicksal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" 
+        android:background="@drawable/cell_shape" >
+
+        <TextView
+            android:id="@+id/DramaButton"
+            android:layout_width="match_parent"
+            android:layout_height="fill_parent"
+            android:layout_gravity="center"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="10dp"
+            android:gravity="center"
+            android:text="Quick Saloon" 
+            android:textColor="#000" />
+        
+    </TableRow>
+    
+    <TableRow
+        android:id="@+id/fail"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" 
+        android:background="@drawable/cell_shape" >
+
+        <TextView
+            android:id="@+id/DramaButton"
+            android:layout_width="match_parent"
+            android:layout_height="fill_parent"
+            android:layout_gravity="center"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="10dp"
+            android:gravity="center"
+            android:text="Fail moment" 
+            android:textColor="#000" />
+        
+    </TableRow>
+
+</TableLayout>

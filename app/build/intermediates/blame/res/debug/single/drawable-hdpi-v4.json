@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/panagiotisvourtsis/StudioProjects/DramaButton1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/menu_icon.png",
+        "source": "/Users/panagiotisvourtsis/StudioProjects/DramaButton1/app/src/main/res/drawable-hdpi/menu_icon.png"
+    },
+    {
+        "merged": "/Users/panagiotisvourtsis/StudioProjects/DramaButton1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/dramabutton_header.png",
+        "source": "/Users/panagiotisvourtsis/StudioProjects/DramaButton1/app/src/main/res/drawable-hdpi/dramabutton_header.png"
+    },
+    {
+        "merged": "/Users/panagiotisvourtsis/StudioProjects/DramaButton1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/cell_shape.xml",
+        "source": "/Users/panagiotisvourtsis/StudioProjects/DramaButton1/app/src/main/res/drawable-hdpi/cell_shape.xml"
+    },
+    {
+        "merged": "/Users/panagiotisvourtsis/StudioProjects/DramaButton1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/pressed.gif",
+        "source": "/Users/panagiotisvourtsis/StudioProjects/DramaButton1/app/src/main/res/drawable-hdpi/pressed.gif"
+    },
+    {
+        "merged": "/Users/panagiotisvourtsis/StudioProjects/DramaButton1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/unpressed.gif",
+        "source": "/Users/panagiotisvourtsis/StudioProjects/DramaButton1/app/src/main/res/drawable-hdpi/unpressed.gif"
+    },
+    {
+        "merged": "/Users/panagiotisvourtsis/StudioProjects/DramaButton1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/shadow.xml",
+        "source": "/Users/panagiotisvourtsis/StudioProjects/DramaButton1/app/src/main/res/drawable-hdpi/shadow.xml"
+    },
+    {
+        "merged": "/Users/panagiotisvourtsis/StudioProjects/DramaButton1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/Users/panagiotisvourtsis/StudioProjects/DramaButton1/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    }
+]

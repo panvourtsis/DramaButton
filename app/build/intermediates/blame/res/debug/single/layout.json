@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/panagiotisvourtsis/StudioProjects/DramaButton1/app/build/intermediates/res/merged/debug/layout/widget.xml",
+        "source": "/Users/panagiotisvourtsis/StudioProjects/DramaButton1/app/src/main/res/layout/widget.xml"
+    },
+    {
+        "merged": "/Users/panagiotisvourtsis/StudioProjects/DramaButton1/app/build/intermediates/res/merged/debug/layout/menu.xml",
+        "source": "/Users/panagiotisvourtsis/StudioProjects/DramaButton1/app/src/main/res/layout/menu.xml"
+    },
+    {
+        "merged": "/Users/panagiotisvourtsis/StudioProjects/DramaButton1/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/Users/panagiotisvourtsis/StudioProjects/DramaButton1/app/src/main/res/layout/main.xml"
+    }
+]
